@@ -1,0 +1,2 @@
+﻿Model,Test rows,Accuracy,Precision (macro),Recall (macro),F1 (macro),Top-3 hit rate
+RandomForestClassifier,440,0.9955,0.9957,0.9955,0.9955,1.0
