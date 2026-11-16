@@ -35,9 +35,6 @@ soil_prediction/
 2. เปิด `notebooks/03_crop_suitability_map.ipynb` เลือก kernel Python 3 แล้ว Run All
 3. ครั้งแรกต้องต่ออินเทอร์เน็ต (ดาวน์โหลดข้อมูลดิน ~35 MB) ใช้เวลาราว 1 นาที
 
-## เมื่อเพื่อนอัปเดตโมเดล
-คัดลอก `enriched_crop_pipeline.pkl` ตัวใหม่มาวางทับใน `models/` และ `data/enriched_crop_dataset_cleaned.csv` ตัวใหม่ไปที่ `data/reference/` แล้วรันใหม่
-notebook สร้างคอลัมน์ตาม `feature_names` ในไฟล์โมเดลเอง จึงไม่ต้องแก้โค้ด ถ้าเพื่อนยังใช้ชุดคอลัมน์แบบเดิม
 
 ## ผลประเมิน (Random Forest, 15 พ.ย. 2569)
 
