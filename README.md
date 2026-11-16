@@ -1,6 +1,6 @@
 # soil_prediction — แผนที่พื้นที่เหมาะกับพืชในประเทศไทย
 
-นำโมเดลแนะนำพืช 22 ชนิดจากโปรเจค [Project_CropRecommendation](https://github.com/6631501036-dev/Project_CropRecommendation)
+นำโมเดลแนะนำพืช 10 ชนิดจากโปรเจค [Project_CropRecommendation](https://github.com/6631501036-dev/Project_CropRecommendation)
 มาทำนายกับ **ผลวิเคราะห์ดินจริงทั่วประเทศ** (~126,000 จุด 77 จังหวัด) แล้วแสดงเป็นแผนที่รายอำเภอ
 
 ## โครงสร้างโฟลเดอร์
